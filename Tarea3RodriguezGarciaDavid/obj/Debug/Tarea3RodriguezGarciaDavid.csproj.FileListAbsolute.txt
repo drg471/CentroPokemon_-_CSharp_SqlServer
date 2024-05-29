@@ -1,0 +1,17 @@
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\obj\Debug\Tarea3RodriguezGarciaDavid.csproj.AssemblyReference.cache
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\obj\Debug\Tarea3RodriguezGarciaDavid.Properties.Resources.resources
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\obj\Debug\Tarea3RodriguezGarciaDavid.csproj.GenerateResource.cache
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\obj\Debug\Tarea3RodriguezGarciaDavid.csproj.CoreCompileInputs.cache
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\bin\Debug\Tarea3RodriguezGarciaDavid.exe.config
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\bin\Debug\Tarea3RodriguezGarciaDavid.exe
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\bin\Debug\Tarea3RodriguezGarciaDavid.pdb
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\obj\Debug\Tarea3RodriguezGarciaDavid.Form1.resources
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\obj\Debug\Tarea3RodriguezGarciaDavid.exe
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\obj\Debug\Tarea3RodriguezGarciaDavid.pdb
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\obj\Debug\Tarea3RodriguezGarciaDavid.AppMainForm.resources
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\bin\Debug\Dapper.dll
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\bin\Debug\Dapper.xml
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\obj\Debug\Tarea3RodriguezGarciaDavid.csproj.CopyComplete
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\bin\Debug\Dapper.Contrib.dll
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\bin\Debug\Dapper.Contrib.xml
+C:\Users\drodr\source\repos\Tarea3RodriguezGarciaDavid\obj\Debug\Tarea3RodriguezGarciaDavid.CombateForm.resources
